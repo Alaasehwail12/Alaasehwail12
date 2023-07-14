@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Alaa Sehwail
-- 💻 I’m currently learning Full-Stack Web Development
 - 👩‍💻 4th year Computer Engineering Student at Birzeit Unversity 
 - 📫 How to reach me sehwailalaa16@gmail.com 
