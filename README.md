@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Alaa Sehwail
-- 👩‍💻 4th year Computer Engineering Student at Birzeit Unversity 
+- 👩‍💻 5th year Computer Engineering Student at Birzeit Unversity 
 - 📫 How to reach me sehwailalaa16@gmail.com 
